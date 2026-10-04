@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
-https://github.com/ChemaPrompts
+github.com/ChemaPrompts
 ---
